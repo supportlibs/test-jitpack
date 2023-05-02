@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace 'com.example.test_lib'
+    namespace 'com.example.test_library2'
     compileSdk 32
 
     defaultConfig {
