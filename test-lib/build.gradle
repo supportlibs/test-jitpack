@@ -44,7 +44,7 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
 
-                groupId = 'com.github.supportlibs'
+                groupId = 'com.ruslan.test'
                 artifactId = 'test-jitpack'
                 version = '1.0.0'
             }
