@@ -45,7 +45,7 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.supportlibs'
-                artifactId = 'test-jitpack'
+                artifactId = 'test-lib'
                 version = '1.0.0'
             }
         }
